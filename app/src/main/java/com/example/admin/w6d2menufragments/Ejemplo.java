@@ -24,7 +24,7 @@ public class Ejemplo {
         sparseArray.append(1,"Quiubo");
         sparseArray.append(2, 6);
         sparseArray.append(3, "Google");
-        sparseArray.append(2, 23);
+        sparseArray.append(2, 28);
 
 
         for (int i = 0; i < sparseArray.size(); i++){
